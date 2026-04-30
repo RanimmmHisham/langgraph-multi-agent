@@ -26,6 +26,6 @@ graph TD;
         supervisor -.-> Researcher;
         supervisor -.-> Writer;
         supervisor -. &nbsp;FINISH&nbsp; .-> __end__;
-        classDef default fill:#EDF2F7,stroke:#2D3748,color:#1A202C,line-height:1.2
-        classDef first fill:#C6F6D5,stroke:#276749,color:#22543D
-        classDef last fill:#FED7D7,stroke:#9B2C2C,color:#742A2A
+        classDef default fill:#f2f0ff,line-height:1.2
+        classDef first fill-opacity:0
+        classDef last fill:#bfb6fc
